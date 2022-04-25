@@ -1,4 +1,4 @@
-# Project TrollMan
+# Project TrollMan (1.7 em desenvolvimento)
 
 Olá, aqui esta um pequeno projeto elaborado por mim. 
 Esse jogo esta muito bem configurado, da para jogar normal alem disso você pode alterar tudo.
